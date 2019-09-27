@@ -13,6 +13,9 @@ Again, this is temporary - I will not be adding any features although I may merg
 ## Usage
 Find examples in the `examples.py` file. Here is an extract:
 ```py
+from python_bybit_API_implementation.Bybit import BybitAPI
+from python_bybit_API_implementation.useful_funcs import *
+
 api_key = ""     # API Key
 api_secret = ""  # Private Key
 client = BybitAPI(api_key, api_secret, "https://api.bybit.com/")  # the URL indicates mainnet or testnet
