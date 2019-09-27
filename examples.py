@@ -1,5 +1,5 @@
 from python_bybit_API_implementation.Bybit import BybitAPI
-from python_bybit import useful_funcs
+from python_bybit_API_implementation.useful_funcs import *
 
 # create the client using an API key and secret which can be generated on the Bybit website:
 # https://www.bybit.com/app/user/api-management
