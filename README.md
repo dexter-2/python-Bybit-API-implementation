@@ -1,6 +1,7 @@
 # python-Bybit-API-implementation
 
 Find Bybit cryptocurrency exchange here: https://www.bybit.com/
+
 Find the official API docs here: https://github.com/bybit-exchange/bybit-official-api-docs
 
 This is a temporary wrapper as Bybit is working on implementing with CCXT.
